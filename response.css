@@ -1,0 +1,84 @@
+
+
+@media (max-width: 1000px) {
+    .abc{
+        visibility: collapse;
+    }
+    
+
+
+}
+
+@media (max-width: 1146px) {
+    .icons{
+        visibility: collapse;
+    }
+    
+
+
+}
+
+@media (max-width: 1145px) {
+    .icons1{
+        visibility: visible;
+    }
+    .icons2{
+        visibility: visible;
+
+    }
+
+}
+
+@media (min-width: 1146px) {
+    .icons1{
+        visibility: collapse;
+    }
+    .icons2{
+        visibility: collapse;
+
+    }
+    .hire-me{
+        margin-top: 0;
+        position: relative;
+        bottom: 30px;
+    }
+    .icons-para{
+        visibility: collapse;
+    }
+
+}
+
+
+@media (max-width: 992px) {
+    #second-section{
+        text-align: center;
+        padding-top: 0;
+    }
+    .second-container{
+        padding-top: 0;
+    }
+    .response-row{
+        position: absolute;
+        top: 100px;
+    }
+}
+
+
+
+@media (max-width: 900px) {
+    .brand{
+        font-size: 20px;
+    }
+    .tejas-pic{
+        width: 200px;
+    }
+}
+
+@media (max-width: 500px) {
+    h1{
+        font-size: 30px;
+    }
+    h4{
+        font-size: 15px;
+    }
+}
